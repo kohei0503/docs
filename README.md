@@ -15,10 +15,7 @@
 * 語学についてアドバイスできる人
 * 出資可能な人
 
-###開発ブログ（TalkLat開発日記）
-http://blog.yamcha.jp/category/25221580-1.html
-
-###連絡先1（飲茶ツイッター）
-http://twitter.com/yamcha789
-###連絡先2（飲茶メールフォーム）
-http://www.formzu.net/fgen.ex?ID=P76024989
+##連絡先
+* 開発ブログ（TalkLat開発日記）:http://blog.yamcha.jp/category/25221580-1.html
+* 飲茶ツイッター:http://twitter.com/yamcha789
+* 飲茶メールフォーム:http://www.formzu.net/fgen.ex?ID=P76024989
