@@ -13,7 +13,7 @@
 * JAVA言語、 Android Studioでスマホアプリを開発できる人
 * JAVA言語でWebアプリを開発できる人
 * 語学についてアドバイスできる人
-* １万円以上、出資可能な人（お金だけ出したい人）
+* 出資可能な人
 
 #開発ブログ（TalkLat開発日記）
 http://blog.yamcha.jp/category/25221580-1.html
