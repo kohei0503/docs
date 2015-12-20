@@ -22,6 +22,3 @@ http://blog.yamcha.jp/category/25221580-1.html
 http://twitter.com/yamcha789
 ###連絡先2（飲茶メールフォーム）
 http://www.formzu.net/fgen.ex?ID=P76024989
-
-###メモ 
-* テキストファイルは文字コード「UTF8」、改行コード「LF」で保存してください。そうしないとブラウザでファイルを見たときに「文字化け」します。
